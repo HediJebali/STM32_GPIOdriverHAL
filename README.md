@@ -1,4 +1,4 @@
-## Project: 03_STM32_GPIOdriverHAL
+## Project: STM32_GPIOdriverHAL
 
 ## Objective: Implement a custom-built GPIO peripheral driver mimicking the HAL structure to toggle an onboard LED (PA5) at a 500 ms interval on the STM32F446RE.
 
